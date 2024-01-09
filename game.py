@@ -1,0 +1,6 @@
+name= input("What is your name?:")
+surname= input("What is your surname?:")
+id_number= input("What is your id number?:")
+print("\nName:", name)
+print("Surname:", surname)
+print("ID:", id_number)
